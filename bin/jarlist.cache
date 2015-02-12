@@ -1,0 +1,9 @@
+# cache for current jar dependency. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1422613456000 107346 2ccf2030202b5678f29478b687b524a6885b5587 /Users/ed/Google Drive/workspace/Hermit_1.3.8_android/libs/hermit__jautomata-core-2.0-android.jar
+1422613456000 107346 2ccf2030202b5678f29478b687b524a6885b5587 /Users/ed/Google Drive/workspace/HertmitAndroidDemo/libs/hermit__jautomata-core-2.0-android.jar
+1422613456000 2480938 ea6506dc0cf9998be3e4692b5fe8e6a62ca41897 /Users/ed/Google Drive/workspace/HertmitAndroidDemo/libs/owlapi-distribution-3.4.10.jar
+1422613456000 2480938 ea6506dc0cf9998be3e4692b5fe8e6a62ca41897 /Users/ed/Google Drive/workspace/Hermit_1.3.8_android/libs/owlapi-distribution-3.4.10.jar
+1422613456000 178534 fe66d8a1b37a1b3a8ef4689befc7d02a11ccda9a /Users/ed/Google Drive/workspace/Hermit_1.3.8_android/libs/hermit__automaton-1.11-8-android.jar
+1422613456000 178534 fe66d8a1b37a1b3a8ef4689befc7d02a11ccda9a /Users/ed/Google Drive/workspace/HertmitAndroidDemo/libs/hermit__automaton-1.11-8-android.jar
